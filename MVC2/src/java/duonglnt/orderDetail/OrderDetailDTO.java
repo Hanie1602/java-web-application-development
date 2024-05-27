@@ -1,17 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package duonglnt.orderDetail;
 
 import duonglnt.product.ProductDTO;
 import duonglnt.tOrder.TOrderDTO;
 
-/**
- *
- * @author trung
- */
 public class OrderDetailDTO {
     private int id;
    private String name;
@@ -131,6 +122,4 @@ public class OrderDetailDTO {
         this.ProductDTO = ProductDTO;
     }
 
-    
-   
 }
