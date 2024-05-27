@@ -241,9 +241,4 @@ public class RegistrationDAO implements Serializable {
 /*
     Tra ra 1 dong thi dung: if
     Tra ra nhieu dong thi dung: white
-
- */
- /*
-    1. Khai bao Connection
-       Dung thu vien de ho tro ket noi (try...finally)
  */
