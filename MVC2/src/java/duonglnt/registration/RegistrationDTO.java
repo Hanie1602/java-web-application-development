@@ -74,6 +74,5 @@ public class RegistrationDTO implements Serializable{
     public void setRole(boolean role) {
         this.role = role;
     }
-
     
 }
