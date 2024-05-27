@@ -13,7 +13,6 @@ public class RegistrationInsertError implements Serializable{
     public RegistrationInsertError() {
     }
 
-    
     /**
      * @return the usernameLengthErr
      */
@@ -83,6 +82,5 @@ public class RegistrationInsertError implements Serializable{
     public void setUsernameIsExisted(String usernameIsExisted) {
         this.usernameIsExisted = usernameIsExisted;
     }
-    
     
 }
