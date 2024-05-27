@@ -195,5 +195,4 @@ public class ProductDAO implements Serializable {
         }
         return quantity;
     }
-
 }
