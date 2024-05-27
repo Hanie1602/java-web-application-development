@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package duonglnt.tOrder;
 
 import duonglnt.util.DBHelper;
@@ -14,10 +9,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import javax.naming.NamingException;
 
-/**
- *
- * @author trung
- */
 public class TOrderDAO implements Serializable {
 
     private int counter = 0;
