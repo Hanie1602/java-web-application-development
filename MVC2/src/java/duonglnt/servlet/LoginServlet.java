@@ -22,8 +22,6 @@ public class LoginServlet extends HttpServlet {
     //private final String SEARCH_PAGE = "search.html";
     private final String SEARCH_PAGE = "search.jsp";
 
-
-
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
      * methods.
