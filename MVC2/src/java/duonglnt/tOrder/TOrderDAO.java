@@ -88,6 +88,7 @@ public class TOrderDAO implements Serializable {
         return counter;
     }
 
+    
     public String generateO()
             throws SQLException, NamingException {
         int counter1 = getTOrderId();
@@ -95,6 +96,7 @@ public class TOrderDAO implements Serializable {
         return "O" + String.format("%03d", counter1);
     }
 
+    
     public TOrderDTO createTOrder(String username, float total)
             throws SQLException, NamingException {
         long currentTimeMillis = System.currentTimeMillis();
