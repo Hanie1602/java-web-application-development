@@ -3,7 +3,6 @@ package duonglnt.servlet;
 
 import duonglnt.registration.RegistrationDTO;
 import java.io.IOException;
-import java.io.PrintWriter;
 import java.util.Properties;
 import javafx.application.Application;
 import javax.servlet.RequestDispatcher;
