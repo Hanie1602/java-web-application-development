@@ -11,6 +11,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+
 @WebServlet(name = "DeleteAccountServlet", urlPatterns = {"/DeleteAccountServlet"})
 public class DeleteAccountServlet extends HttpServlet {
     private final String ERROR_PAGE = "errors.html";
