@@ -26,6 +26,7 @@ public class RemoveItemsFromCartServlet extends HttpServlet {
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
         response.setContentType("text/html;charset=UTF-8");
+        
         try {
             //1. Customer goes to his/her cart placce
             HttpSession session = request.getSession(false);            //Chon False: check xem no co ton tai hay khong
