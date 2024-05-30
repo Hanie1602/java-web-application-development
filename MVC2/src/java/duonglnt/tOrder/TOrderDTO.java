@@ -74,6 +74,4 @@ public class TOrderDTO implements  Serializable{
     public void setTotal(float total) {
         this.total = total;
     }
-    
-    
 }
