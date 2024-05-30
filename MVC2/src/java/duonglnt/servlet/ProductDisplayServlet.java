@@ -18,7 +18,6 @@ import javax.servlet.http.HttpServletResponse;
 public class ProductDisplayServlet extends HttpServlet {
     private String PRODUCT_PAGE =  "product.html";
     private String SHOW_PRODUCT_PAGE = "product.jsp";
-    
 
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
