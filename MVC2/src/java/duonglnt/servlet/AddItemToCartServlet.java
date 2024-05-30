@@ -26,6 +26,7 @@ public class AddItemToCartServlet extends HttpServlet {
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
         response.setContentType("text/html;charset=UTF-8");
+        
         try {
             //1. Customer goes to the cart place
             HttpSession session = request.getSession();         //True: luon luon  cap phat
