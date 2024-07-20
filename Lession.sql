@@ -43,7 +43,7 @@ CREATE TABLE OrderDetail (
 INSERT INTO Registration (username, password, lastname, isAdmin) VALUES
 ('hutrud', '123456', 'Hu Truc', 0),
 ('IA1301', '123456', 'Class IA1301', 0),
-('khanh', 'kieu123', 'Khanh Kieu', 1),
+('khanh', 'duong123', 'Thuy Duong', 1),
 ('khanh@Spring', '123456', 'Spring annotation', 0),
 ('khanhSpring', '123456', 'khanh', 0),
 ('khanhSpringa', '123456', 'dddscaaaa', 0),
@@ -54,7 +54,8 @@ VALUES
 ('SKU001', N'Ao thun', N'Ao thun mau den size M', 15.99, 100, 1),
 ('SKU002', N'Quan jeans', N'Quan jeans mau hong size 32', 29.99, 50, 1),
 ('SKU003', N'Giay the thao', N'Giay the thao nam mau trang size 9', 49.99, 30, 1),
-('SKU004', N'Tui xach', N'Tui xach nu mau nau', 39.99, 20, 1);
+('SKU004', N'Tui xach', N'Tui xach nu mau nau', 39.99, 20, 1),
+('SKU005', N'Ao so-mi', N'Ao so mi mau trang', 40.55, 30, 1);
 
 INSERT INTO tOrder (id, date, name, total)
 VALUES 
