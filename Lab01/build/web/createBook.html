@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Add book</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <form action="BookServlet" method="POST">
+            <h1>Create Book </h1>
+            <table border="1" cellspacing="1">
+                <tbody>
+                    <tr>
+                        <td>Id</td>
+                        <td><input type="text" name="txtId"></td>
+                    </tr>
+                    <tr>
+                        <td>Title</td>
+                        <td><input type="text" name="txtTitle"></td>
+                    </tr>
+                    <tr>
+                        <td>Publisher</td>
+                        <td><input type="text" name="txtPublisher"></td>
+                    </tr>
+                    <tr>
+                        <td>Price</td>
+                        <td><input type="text" name="txtPrice"></td>
+                    </tr>
+                    <tr>
+                        <td>Quantity</td>
+                        <td><input type="text" name="txtQuantity"></td>
+                    </tr>
+                    <tr>
+                        <td><input type="submit" value="Create" name="btCreate"></td>
+                        <td><input type="reset" value="Reset" name="Reset"></td>
+                    </tr>
+                </tbody>
+            </table>
+
+        </form>
+    </body>
+</html>
