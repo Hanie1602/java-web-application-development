@@ -1,10 +1,3 @@
-<%-- 
-    Document   : admin
-    Created on : Mar 1, 2022, 8:29:12 PM
-    Author     : hd
---%>
-
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <!DOCTYPE html>

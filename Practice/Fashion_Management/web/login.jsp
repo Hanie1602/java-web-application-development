@@ -1,9 +1,3 @@
-<%-- 
-    Document   : login
-    Created on : Mar 11, 2022, 9:02:11 PM
-    Author     : hd
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <!DOCTYPE html>
@@ -13,7 +7,6 @@
         <title>Login Page</title>
     </head>
     <body>
-        <!--your code here-->
         <c:set var="msg" value="${requestScope.ERROR}" />
         ${msg}
         <form action="MainController"  method="POST">
