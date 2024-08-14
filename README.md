@@ -5,8 +5,8 @@ This project is part of my coursework at FPT University, where I'm learning abou
 
 ## Table of Contents
 - [Overview](#overview)
-- [Lessons](#Practice)
-  - [Introduction to MVC2](#MVC2)
+- [Lessons](#lession)
+  - [Introduction to MVC2](#introduction-to-mvc2)
 
 ## Overview
 Java Web Application Development involves creating web applications using Java, which is known for its stability, security, and scalability. Key components include **Servlets**, **JSPs (JavaServer Pages)**, and the **MVC2 architecture**.
