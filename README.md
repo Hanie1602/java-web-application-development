@@ -1,5 +1,10 @@
 # java-web-application-development🚀
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MVC2](https://img.shields.io/badge/MVC2-Model--View--Controller-blue)
+![JSP](https://img.shields.io/badge/JSP-JavaServer%20Pages-green)
+![MySQL](https://img.shields.io/badge/Database-MySQL-orange)
+
 ## Introduction🎓
 This project is part of my coursework at FPT University, where I'm learning about **Java Web Application Development**. The focus is on building web applications using the Java programming language, following the **MVC2 (Model-View-Controller)** architecture.
 
