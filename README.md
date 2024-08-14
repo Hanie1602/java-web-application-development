@@ -9,7 +9,7 @@
 This project is part of my coursework at FPT University, where I'm learning about **Java Web Application Development**. The focus is on building web applications using the Java programming language, following the **MVC2 (Model-View-Controller)** architecture.
 
 ## 📑 Table of Contents
-- [Overview](#overview)
+- [Overview](#overview🌐)
 - [Lessons](#lessions)
   - [Introduction to MVC2](#introduction-to-mvc2)
   - [Java Servlets](#java-servlets)
