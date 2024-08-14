@@ -27,6 +27,7 @@ Java Web Application Development involves creating web applications using Java, 
 ## Lessons 📚
 
 ### Introduction to MVC2 🛠️
+![MVC Diagram](https://afteracademy.com/images/mvc-architecture-in-web-applications-working-851592344a7c710d.gif)
 - **Objective:** Understand the basics of MVC2 architecture. 
 - **Technology:** Java, Servlet, JSP (JavaServer Pages).
 - **Key Concepts:** Model-View-Controller pattern.
