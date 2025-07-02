@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Login</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <h1>Login Page</h1>
+        <form action="DispatchServlet" method="POST">
+            Username <input type="text" name="txtUsername" value="" /> <br/>
+            Password <input type="password" name="txtPassword" value="" /> <br/>
+            <input type="submit" value="Login" name="btAction"/>
+            <input type="reset" value="Reset" />
+        </form>
+        <br/>
+        <a href="DispatchServlet?btAction=Go to shopping">Go to Shopping</a> <br/>
+        <a href="createNewAccount.html">Click here to Sign Up</a>
+        
+        <!-- 1. Tao View nhung phai chi den Dispatcher (DispatchServlet)
+             2. Mapping tinh nang moi vao ben trong Dispatcher 
+             3. Tao Servlet chuc nang
+             4. Tao DAO
+             5. Tao DTO (neu co)
+             6. Chuyen, xu ly cho resource khac 
+        -->
+    </body>
+</html>
